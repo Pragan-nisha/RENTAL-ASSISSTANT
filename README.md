@@ -1,8 +1,5 @@
 # RENTAL-ASSISSTANT
 An AI-powered rental property search and analytics tool that delivers precise, hallucination-free insights from scraped data — no APIs required.
-Alright — here’s your **polished, recruiter-ready README** for *Rental Assistant*.
-It’s written like a **real product page** but still technical enough to impress.
-
 
 
 ## ✨ Features
@@ -25,7 +22,7 @@ It’s written like a **real product page** but still technical enough to impres
 **Architecture:**
 ```
 
-\[MagicBricks Scraper] → \[Structured Data] → \[ChromaDB + Qwen2 Embeddings] → \[Gemini Query Parser] → \[Accurate Results]
+[MagicBricks Scraper] → [Structured Data] → [ChromaDB + Qwen2 Embeddings] → [Gemini Query Parser] → [Accurate Results]
 
 ````
 
@@ -56,6 +53,6 @@ It’s written like a **real product page** but still technical enough to impres
 ## 📌 Author
 
 **Pragan Nisha K**
-*Data & AI Enthusiast • Real-World LLM Application Builder*
+*Data & AI Enthusiast*
 
 ---
