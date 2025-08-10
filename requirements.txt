@@ -1,0 +1,17 @@
+# Web scraping
+selenium
+requests
+beautifulsoup4
+pandas
+geopy
+
+# LangChain + Vector DB
+langchain
+chromadb
+sentence-transformers
+
+# For data handling
+uuid
+python-dateutil
+
+# Ollama server must be installed separately
